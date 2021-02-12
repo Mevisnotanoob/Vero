@@ -1,0 +1,12 @@
+
+#General settings
+[General]
+	#Ignore speed boosts for field of view
+	useFOVFix = true
+	#Use FOV Fix to normalize FOV changes
+	useFOVNormalize = true
+	#Default state of FOVfix on login (enabled = true, disabled = false)
+	fovFixDefaultState = true
+	#Debugging info
+	useSounds = true
+

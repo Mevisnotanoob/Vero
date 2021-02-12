@@ -1,0 +1,46 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    },
+    "occultism:dictionary_of_spirits": {
+      "viewedEntries": [
+        "occultism:rituals/familiars/familiar_otherworld_bird",
+        "occultism:rituals/familiars/familiar_parrot",
+        "occultism:rituals/overview",
+        "occultism:rituals/summoning/wither_skull",
+        "occultism:storage/stable_wormhole",
+        "occultism:storage/storage_controller",
+        "occultism:storage/autocrafting",
+        "occultism:pentacles/possess_foliot",
+        "occultism:pentacles/overview",
+        "occultism:getting_started/datura",
+        "occultism:getting_started/third_eye",
+        "occultism:getting_started/divination",
+        "occultism:getting_started/first_ritual"
+      ],
+      "bookmarks": [],
+      "history": [
+        "occultism:getting_started/first_ritual",
+        "occultism:getting_started/divination",
+        "occultism:getting_started/third_eye",
+        "occultism:getting_started/datura",
+        "occultism:pentacles/overview",
+        "occultism:pentacles/possess_foliot",
+        "occultism:storage/autocrafting",
+        "occultism:storage/storage_controller",
+        "occultism:storage/stable_wormhole",
+        "occultism:rituals/summoning/wither_skull",
+        "occultism:rituals/overview",
+        "occultism:rituals/familiars/familiar_parrot",
+        "occultism:rituals/familiars/familiar_otherworld_bird"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
